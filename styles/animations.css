@@ -14,7 +14,7 @@
 
 .core {
   fill: transparent;
-  transition: fill 0.3s 0.03s; 
+  transition: fill 0.3s 0.03s;
 }
 
 .contour {
@@ -23,7 +23,7 @@
 }
 
 .main-body {
-  fill: transparent; 
+  fill: transparent;
   transition: fill 0.3s;
 }
 
@@ -32,7 +32,7 @@
 }
 
 .like-icon:hover .core {
-  fill: var(--contour-color); 
+  fill: var(--contour-color);
   transition: fill 0.3s;
 }
 
@@ -74,7 +74,7 @@
 
 .like-icon.is-liked .heart {
   animation: scale 0.3s ease-in 0.1s alternate;
-  transform-origin: center; 
+  transform-origin: center;
 }
 
 @keyframes scale {
