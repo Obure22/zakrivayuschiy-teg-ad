@@ -1,0 +1,1 @@
+https://obure22.github.io/zakrivayuschiy-teg-ad/
